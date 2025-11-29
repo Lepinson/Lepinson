@@ -19,4 +19,4 @@ Enter file contents here
 ![Static Badge](https://img.shields.io/badge/onlyfans-%2300AFF0?style=flat&logo=onlyfans&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/onlyfans-%2300AFF0?style=flat&logo=onlyfans&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lepinson&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lepinson&theme=dark" alt="GitHub Streak" /></a>
