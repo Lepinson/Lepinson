@@ -20,5 +20,4 @@ Enter file contents here
 ![Static Badge](https://img.shields.io/badge/onlyfans-%2300AFF0?style=flat&logo=onlyfans&logoColor=white)
 
 
-
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lepinson&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lepinson&show_icons=true&theme=transparent)
