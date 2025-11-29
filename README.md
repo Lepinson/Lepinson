@@ -1,16 +1,20 @@
-## Hi there 👋
+Enter file contents here
 
-<!--
-**Lepinson/Lepinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=black)
+![Static Badge](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=plastic&logo=rabbitmq&logoColor=white)
+![Static Badge](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=plastic&logo=rabbitmq&logoColor=white)
+![Static Badge](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=plastic&logo=rabbitmq&logoColor=white)
+![Static Badge](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=plastic&logo=rabbitmq&logoColor=white)
+![Static Badge](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=plastic&logo=rabbitmq&logoColor=white)
+![Static Badge](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=plastic&logo=rabbitmq&logoColor=white)
+![Static Badge](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=plastic&logo=rabbitmq&logoColor=white)
+![Static Badge](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=plastic&logo=rabbitmq&logoColor=white)
+![Static Badge](https://img.shields.io/badge/apachekafka-%23231F20?style=plastic&logo=apachekafka&logoColor=white)
+![Static Badge](https://img.shields.io/badge/apachekafka-%23231F20?style=plastic&logo=apachekafka&logoColor=white)
+![Static Badge](https://img.shields.io/badge/apachekafka-%23231F20?style=plastic&logo=apachekafka&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/onlyfans-%2300AFF0?style=flat&logo=onlyfans&logoColor=white)
+![Static Badge](https://img.shields.io/badge/onlyfans-%2300AFF0?style=flat&logo=onlyfans&logoColor=white)
