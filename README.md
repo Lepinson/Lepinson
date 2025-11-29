@@ -20,4 +20,4 @@ Enter file contents here
 ![Static Badge](https://img.shields.io/badge/onlyfans-%2300AFF0?style=flat&logo=onlyfans&logoColor=white)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lepinson)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lepinson&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
